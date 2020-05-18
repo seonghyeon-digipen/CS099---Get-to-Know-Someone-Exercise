@@ -2,74 +2,74 @@
 
 **1.What makes you happy?** 
 
-__Playing games without getting stress.__
+_Playing games without getting stress._
 
 **2.Who is your best friend?** 
 
-I do not have the best friend.
+_I do not have the best friend._
 
 **3.What is your favorite place?** 
 
-My home.
+_My home._
 
 **4.Where did you grow up?** 
 
-I grew up at Changwon.
+_I grew up at Changwon._
 
 **5.What makes you angry?** 
 
-Mental stress and illogicality.
+_Mental stress and illogicality._
 
 **6.What's your favorite TV Show?** 
 
-I don't watch TV well.
+_I don't watch TV well._
 
 **7.Do you have any pets?** 
 
-I have a dog.
+_I have a dog._
 
 **8.Do you believe in aliens? Why?/Why not?** 
 
-I don't. I cannot believe any controversies which are not verified.
+_I don't. I cannot believe any controversies which are not verified._
 
 **9.What is your dream job?** 
 
-Game Tester.
+_Game Tester._
 
 **10.Do you like your name? Why?/Why not?**  
 
-I am not sure. I have never thought about it.
+_I am not sure. I have never thought about it._
 
 **11.What is the best thing you own?** 
 
-My laptop.
+_My laptop._
 
 **12.What kind of music do you hate?** 
 
-I accept most of genres of music.
+_I accept most of genres of music._
 
 **13.What is your favorite drink?** 
 
-Iced Tea.
+_Iced Tea._
 
 **14.What did you have for breakfast today?** 
 
-A sandwich.
+_A sandwich._
 
 **15.What makes you sad?** 
 
-The moment when I lost things I value.
+_The moment when I lost things I value._
 
 **16.Which country has the most attractive men/women?** 
 
-How do I know?
+_How do I know?_
 
 **17.Where is the best place to go on vacation?** 
 
-Places that I really desire to travel for.
+_Places that I really desire to travel for._
 
 **18.Are you a morning person or an evening person?** 
 
-Evening person.
+_Evening person._
 
 
