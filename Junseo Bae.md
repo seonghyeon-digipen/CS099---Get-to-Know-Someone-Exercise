@@ -1,4 +1,5 @@
-**# CS099---Get-to-Know-Someone-Exercise**
+# CS099---Get-to-Know-Someone-Exercise
+
 1.What makes you happy? 
 
 Playing games without getting stress.
