@@ -72,5 +72,5 @@ _Places that I really desire to travel for._
 
 _Evening person._
 
-![junseo Bae](https://user-images.githubusercontent.com/65002076/82191498-93c59900-992d-11ea-9c9b-f9ea23fbeb98.jpg)
+
 
